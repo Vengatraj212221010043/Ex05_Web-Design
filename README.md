@@ -16,6 +16,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <html>
 <head>
 <style type = "text/css">
